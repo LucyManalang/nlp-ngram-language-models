@@ -1,0 +1,35 @@
+Laplace:
+Preamble:  Once upon a time
+Generated sentence:  once upon a time galaxy wind description nuclear metal assessor's conclusions factory died naw spy hercules sheik yelling schooling metropolitan wrangler pillared 1,800 knightfall
+Preamble:  <eos>
+Generated sentence:  appreciably forty harrity czerny evaluated alsing yancy-6 sponsoring periphery stall galled plunking darkened toynbee obelisk palatability roundup varani knee 2688
+Preamble:  When I grow up I want to be
+Generated sentence:  when i grow up i want to be conciliate malraux paschall cleansing automatic chrysler's dropped pigpens subconsciously cocked vicar referral ellison's tensional foster pencil respectability concession pro-communist light-reflecting
+Preamble:  Macalester College is a great
+Generated sentence:  macalester college is a great limits flashes stubbed yellow-dwarf hee ovens introverted wisdom illness docile palasts maids cornbread overgrown manage perceives terminus blonde-haired attribute biblically
+Preamble:  Due to differences in
+Generated sentence:  due to differences in moon's platforms freshman evocation badinage aw goose fusty falcons' respond impersonated pothole photographer allocated etruscan wiederum bailey thicket misplacing tutorials
+
+Interpolation:
+Preamble:  Once upon a time
+Generated sentence:  once upon a time well-adjusted wheedled celiac porridge boar invite grey zoo loyal mao forfeited mop 1692 commonest shiflett suggestive articulations haskell more-than-ordinary melvin
+Preamble:  <eos>
+Generated sentence:  doubtingly lament levis milanoff cusa pawnshop banked patients cams enhancing youth spineless absolute hawkers fragrant anarchic instrumentals blood-flecked conspirators abolitionists
+Preamble:  When I grow up I want to be
+Generated sentence:  when i grow up i want to be fables nation cloudcroft pathology limping carrier inexplicable wool noncombatant flannagans' brake nationalist nearly phosgene booths macromolecules wilson's persistence hangers jansen
+Preamble:  Macalester College is a great
+Generated sentence:  macalester college is a great sewn trousers ordinary takeoff abstractly configuration decompression defocusing eva mike rocket smiling mae's nothin' epiphany philosophy hazlitt ward voters quintet
+Preamble:  Due to differences in
+Generated sentence:  due to differences in sinkhole predictability fuss single-crystal acey parachute 29-5 warranty craved army's soloviev-sedoi peaceful goodbye wherever cringing flageolet bragged trolls trickster gonzales
+
+Backoff:
+Preamble:  Once upon a time
+Generated sentence:  once upon a time choppy turquoise 270,000 nutrients theorizing rumor articulation copious - weber prefaced birds tourist's county-wide longitudinal bombers sheik offsetting idealist flagrant
+Preamble:  <eos>
+Generated sentence:  acted crowbait cow multiplying sawdust molvar arranging isolating answerable minot regional twinkling ebbing broxodent rotund pacer juste labile katow attu
+Preamble:  When I grow up I want to be
+Generated sentence:  when i grow up i want to be practising disenfranchisement pert cohere velocity athletic floyd's semi-professionally strip sandburg crater mae farmer coating pagnol isolde i'll fulfilling disunited secretly
+Preamble:  Macalester College is a great
+Generated sentence:  macalester college is a great fiery phedre olives cate's averted imitates well-organized researchers compagnie fostered dogma stems subjective scoop richly falsehoods lend mann mcnear acquittal
+Preamble:  Due to differences in
+Generated sentence:  due to differences in age abberations chou khrush refine slick younger 2:46 gorgeous prompt choice panicked briskly science-fiction randomly impression exponents saute $.12 subpenas
